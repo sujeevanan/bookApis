@@ -80,14 +80,6 @@ This project is a **RESTful Books API** built using **Node.js** and **Express.js
 
 ---
 
-## **Future Improvements**
-- Integrate a **database** (MongoDB or PostgreSQL) instead of an in-memory store.
-- Implement **user authentication** for API security.
-- Add **GraphQL support** for flexible queries.
-- Improve **error handling** and implement logging for better debugging.
-
----
-
 ## **Author**
 - **Sujeevanan Loganathan**
 - GitHub: [https://github.com/sujeevanan](https://github.com/sujeevanan)

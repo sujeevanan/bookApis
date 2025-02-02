@@ -45,11 +45,11 @@ This project is a **RESTful Books API** built using **Node.js** and **Express.js
    ```
 4. The API will be available at:
    ```
-   http://localhost:5000/api/books
+   http://localhost:8000/api/books
    ```
 5. API documentation (Swagger UI) will be available at:
    ```
-   http://localhost:5000/api-docs
+   http://localhost:8000/api-docs
    ```
 
 ---
